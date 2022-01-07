@@ -12,7 +12,7 @@
 
 ## My GitHub Stats 📊
 <a href="https://github.com/rachna23jain/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lavishjain36&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rachna23jain&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/rachna23jain/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachna23jain" />
